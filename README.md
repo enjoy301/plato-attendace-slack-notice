@@ -1,1 +1,0 @@
-# plato-attendace-slack-notice
